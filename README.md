@@ -30,7 +30,8 @@ The main features of this pipeline:
 * Retrieval of information using Neo4j Cypher or the Q & A system.
 
 
-**Installation**
+**Installation**  
+
 To install and run the app locally, follow these steps:
 
 1. Clone this repository to your local machine.
