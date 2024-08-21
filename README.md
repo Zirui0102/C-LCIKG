@@ -1,9 +1,9 @@
 # C-LCIKG
 Life Cycle Inventory Knowledge Graph for Critical Chemicals  
 
-This is the repository for our next publication:  
+This is the repository for our upcoming publication:  
 
-Tang, Z., Dreger, M., Jiang, P., Malek, K., & Tu, Q. (2024) Using Large Language Models and Neo4j to Construct a Knowledge Graph for Life Cycle Inventory of Critical Chemicals  
+Tang, Z., Dreger, M., Jiang, P., Malek, K., & Tu, Q. (2024) Using Large Language Models and Neo4j to Construct a Knowledge Graph for Life Cycle Inventory of Critical Chemicals. 
 
 **Contents**  
 
@@ -21,13 +21,13 @@ The main features of this pipeline:
 
 * Extraction of table titles and their corresponding page numbers from PDFs.
 
-* Classification of tables as LCI inventory or not.
+* Text Embedding classification of table titles to identify LCI inventory tables.
 
 * Extraction of LCI inventory data and LCA methodological choices from LCA studies.
 
-* Construction of knowledge graphs in Neo4j based on the C-LCI ontology.
+* Construction of knowledge graphs based on the C-LCIKG ontology.
 
-* Retrieval of information using Neo4j Cypher or the Q & A system
+* Retrieval of information using Neo4j Cypher or the Q & A system.
 
 
 **Installation**
