@@ -19,7 +19,7 @@ This repository contains source code for extracting data from Life Cycle Assessm
 
 The main features of this pipeline:
 
-• Extraction of table titles and their corresponding page numbers from PDFs.
+  • Extraction of table titles and their corresponding page numbers from PDFs.
 
 • Classification of tables as LCI inventory or not.
 
