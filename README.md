@@ -19,6 +19,16 @@ This repository contains source code for extracting data from Life Cycle Assessm
 
 The main features of this pipeline:
 
+• Extraction of table titles and their corresponding page numbers from PDFs.
+
+• Classification of tables as LCI inventory or not.
+
+• Extraction of LCI inventory data and LCA methodological choices from LCA studies.
+
+• Construction of knowledge graphs in Neo4j based on the pre-determined ontology.
+
+• Retrieval of information using Neo4j Cypher or the Q & A system
+
 
 **Installation**
 To install and run the app locally, follow these steps:
@@ -27,4 +37,4 @@ To install and run the app locally, follow these steps:
 
 2. Install the required dependencies using the provided requirements.txt file.
 
-3. Run the code (data examples are provided 
+3. Run the code (using example datasets).
