@@ -1,9 +1,9 @@
 # C-LCIKG
-Life Cycle Inventory Knowledge Graph for Critical Chemicals  
+Life Cycle Inventory Knowledge Graph for Chemicals  
 
 This is the repository for our upcoming publication:  
 
-Tang, Z., Dreger, M., Jiang, P., Malek, K., & Tu, Q. (2024) Using Large Language Models and Neo4j to Construct a Knowledge Graph for Life Cycle Inventory of Critical Chemicals. 
+Tang, Z., Dreger, M., Jiang, P., Malek, K., & Tu, Q. (2024) Using Large Language Models and Neo4j to Construct a Knowledge Graph for Life Cycle Inventory of Chemicals. 
 
 **Contents**  
 
